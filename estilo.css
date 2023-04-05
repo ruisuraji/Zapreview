@@ -1,0 +1,40 @@
+body{
+background: rgb(70,142,296);
+font: normal 15pt verdana;
+}
+
+header{
+    color: cadetblue;
+    text-align: center;
+}
+section {
+    background: bisque;
+    border-radius: 18px;
+    padding: 16px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 3px 3px 10px rgba(rgb(202, 103, 103), rgb(24, 70, 24), blue, alpha);
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+}
+
+/* #txtInput
+
+{
+position:absolute;
+min-width:22%;
+height 20%;
+top:0%;
+right:0%;
+z-index:10;
+background-color:#CCC;
+border: 1px solid grey;
+
+}*/
+#txtInput input {
+background-color:#b92929  
+
+} */
